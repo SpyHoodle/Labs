@@ -1,0 +1,28 @@
+baseURL = "http://labs.spyhoodle.me/"
+languageCode = "en-gb"
+title = "Catalyst Labs"
+theme = "hugo-theme-console"
+author = "Madeleine"
+
+[params]
+animateStyle = "animated zoomIn fast"
+
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
+
+  # [[params.navlinks]]
+  # name = "posts/"
+  # url = "posts/"
+
+  [[params.navlinks]]
+  name = "philosophy/"
+  url = "philosophy/"
+
+  [[params.navlinks]]
+  name = "technology/"
+  url = "technology/"
+
+  [[params.navlinks]]
+  name = "science/"
+  url = "science/"
